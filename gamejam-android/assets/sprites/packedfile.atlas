@@ -1,0 +1,821 @@
+
+packedfile.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bone
+  rotate: false
+  xy: 0, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+cart0
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cart1
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fencehori
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fencelowerright
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guarddownattack01
+  rotate: false
+  xy: 0, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guarddownstand01
+  rotate: false
+  xy: 256, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guarddownwalk01
+  rotate: false
+  xy: 256, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guarddownwalk02
+  rotate: false
+  xy: 512, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardleftattack01
+  rotate: false
+  xy: 768, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardleftstand01
+  rotate: false
+  xy: 512, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardleftwalk01
+  rotate: false
+  xy: 768, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fenceupperleft
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fenceupperright
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fencevert
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+grass01
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guardleftwalk02
+  rotate: false
+  xy: 0, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardrightattack01
+  rotate: false
+  xy: 0, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardrightstand01
+  rotate: false
+  xy: 256, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardrightwalk01
+  rotate: false
+  xy: 256, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardrightwalk02
+  rotate: false
+  xy: 512, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardupattack01
+  rotate: false
+  xy: 768, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardupstand01
+  rotate: false
+  xy: 512, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+guardupwalk01
+  rotate: false
+  xy: 768, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grave01closed
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+grave01open
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guardupwalk02
+  rotate: false
+  xy: 0, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownattack01
+  rotate: false
+  xy: 0, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownattackshovel01
+  rotate: false
+  xy: 256, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordowndig01
+  rotate: false
+  xy: 256, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordowndigshovel01
+  rotate: false
+  xy: 512, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownstand01
+  rotate: false
+  xy: 768, 640
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownstandpart0101
+  rotate: false
+  xy: 512, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownstandpart0201
+  rotate: false
+  xy: 768, 256
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+lowerright
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+packedfile4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igordownstandpart0301
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownstandshovel01
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalk01
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalk02
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkpart0101
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkpart0102
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkpart0201
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkpart0202
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igordownwalkpart0301
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkpart0302
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkshovel01
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igordownwalkshovel02
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftattack01
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftattackshovel01
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftdig01
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftdigshovel01
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorleftstand01
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftstandpart0101
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftstandpart0201
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftstandpart0301
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftstandshovel01
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalk01
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalk02
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkpart0101
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorleftwalkpart0102
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkpart0201
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkpart0202
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkpart0301
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkpart0302
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkshovel01
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorleftwalkshovel02
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightattack01
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorrightattackshovel01
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightdig01
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightdigshovel01
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightstand01
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightstandpart0101
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightstandpart0201
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightstandpart0301
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightstandshovel01
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorrightwalk01
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalk02
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0101
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0102
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0201
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0202
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0301
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkpart0302
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorrightwalkshovel01
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorrightwalkshovel02
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupattack01
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupattackshovel01
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupdig01
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupdigshovel01
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupstand01
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupstandpart0101
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorupstandpart0201
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupstandpart0301
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupstandshovel01
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalk01
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalk02
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkpart0101
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkpart0102
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkpart0201
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igorupwalkpart0202
+  rotate: false
+  xy: 0, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkpart0301
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkpart0302
+  rotate: false
+  xy: 256, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkshovel01
+  rotate: false
+  xy: 256, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+igorupwalkshovel02
+  rotate: false
+  xy: 512, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+part01
+  rotate: false
+  xy: 768, 384
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+part02
+  rotate: false
+  xy: 512, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+part03
+  rotate: false
+  xy: 768, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
+
+packedfile13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shovel
+  rotate: false
+  xy: 0, 0
+  size: 256, 384
+  orig: 256, 384
+  offset: 0, 0
+  index: -1
